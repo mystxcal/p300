@@ -1,2 +1,2 @@
-# p300
-for collab on cdac task
+# P300
+Code for BCI P300 Analysis/Classification
